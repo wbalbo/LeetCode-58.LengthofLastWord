@@ -11,13 +11,15 @@ Given a string s consisting of some words separated by some number of spaces, re
 
 A word is a maximal substring consisting of non-space characters only.
 
-My Results:
+<b>My Results:
+<br /><br />
 
-58 / 58 test cases passed.
-Status: Accepted
-Runtime: 91 ms
-Memory Usage: 34.7 MB
+58 / 58 test cases passed.<br />
+Status: Accepted<br />
+Runtime: 91 ms<br />
+Memory Usage: 34.7 MB<br />
+</b>
 
-![image](https://user-images.githubusercontent.com/570762/146301764-20b2bcb8-ef7a-491b-9e69-19b6f999ff7a.png)
+![image](https://user-images.githubusercontent.com/570762/146301846-94466d4e-0d7c-42cc-aa92-15548da7256c.png)
 
 This problem was really easy, I finished in about 15 minutes.
