@@ -18,6 +18,6 @@ Status: Accepted
 Runtime: 91 ms
 Memory Usage: 34.7 MB
 
-
+![image](https://user-images.githubusercontent.com/570762/146301764-20b2bcb8-ef7a-491b-9e69-19b6f999ff7a.png)
 
 This problem was really easy, I finished in about 15 minutes.
